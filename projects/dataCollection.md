@@ -11,7 +11,7 @@ labels:
 summary: "A set of python scripts developed to harvest data from various electrical meters."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/cotton/bannerMeter.webp">
 
 This project was created to address insuffincies in our data collection methods. It connects to a list of pre-defined smart meters and collects various metrics with sub-minute data resolution
 
