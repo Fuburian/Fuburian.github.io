@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Typescript Should be Sent to the Hague"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
 published: true
@@ -10,9 +10,7 @@ labels:
   - Learning
 ---
 
-<head>
-Typescript Should be Sent to the Hague
-</head>
+
 <body>
 
 <h1>Typescript Should be Sent to the Hague</h1>
