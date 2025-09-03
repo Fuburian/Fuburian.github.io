@@ -11,7 +11,7 @@ labels:
 ---
 
 <head>
-<title>Typescript Should be Sent to the Hague</title>
+Typescript Should be Sent to the Hague
 </head>
 <body>
 
