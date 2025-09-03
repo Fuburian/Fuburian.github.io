@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/epm7000p-front-left.avif
 title: "Smart Meter Data Collection Scripts"
 date: 2024
 published: false
