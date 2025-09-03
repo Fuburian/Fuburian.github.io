@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Typescript Should be Sent to the Hague"
+title: "Typescript Athletes Should be Sent to the Hague"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
 published: true
@@ -13,7 +13,7 @@ labels:
 
 <body>
 
-<h1>Typescript Should be Sent to the Hague</h1>
+<h1>Typescript Athletes Should be Sent to the Hague</h1>
 <p>I would like to preface this by expressing my aversion towards JavaScript. Many years of game modding and robotics have shown me how incomprehensible and problematic JavaSript can be. It can be slow and disorganized. Perhaps that's my natural bias towards my beloved engineering courses speaking (a land of wonder where everything is coded in C and C++), but JavaScript classes become a nightmare of serial access operators and member variables that could scramble an egg faster than a sheetmetal shack in the middle of the Mojave. To be fair, it could be worse. At least it isn't Java. </p>
 
 
