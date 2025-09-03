@@ -23,4 +23,4 @@ This project was created to address insuffincies in our data collection methods.
 
 <hr>
 
-Source: <a href="https://github.com/Campus-Energy/Python_Meter"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/Campus-Energy/Python_Meter"><i class="large github icon "></i>Python_Meter</a>
