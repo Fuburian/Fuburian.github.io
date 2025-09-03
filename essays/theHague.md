@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 ---
 layout: essay
 type: essay
