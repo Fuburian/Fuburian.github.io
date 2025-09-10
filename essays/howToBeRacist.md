@@ -12,6 +12,7 @@ labels:
 
 
 # How to be Racist: A Quick Guide for the Socially Impaired
+
     "My disappointment is immeseaurable and my day is ruined" that is how I feel about this article, if it could even be called such. It reads more like an enlightened racist's manifesto on minorities than an actual guide on smart question asking. I can barely bring myself to even write about this tirade, because of the sheer distaste it leaves in my mouth. First off, you do not call people seeking help "losers". 
 Secondly, Mr. Raymond has completely disregarded the various circumstances people find themselves in. Thirdly, the actual commentary used in this article *reeks* of racism.
 
