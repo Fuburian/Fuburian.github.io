@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Learning
-  - "Good" Questions
+  - Good Questions
 ---
 
 
