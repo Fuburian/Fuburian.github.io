@@ -20,7 +20,7 @@ Secondly, Mr. Raymond has completely disregarded the various circumstances peopl
   
    > "We're not asking you to genuflect to us — in fact, most of us would love nothing more than to deal with you as an equal and welcome you into our culture, if you put in the effort required to make that possible."
 
-<p>We're not asking you to worship us as superiors, we would love nothing more for you to be civilized! This *person* writes as if the technologically inclined are a benevolent higher power with a mission to enlighten and civilize the new world savages. Here they establish a *clear* hierarchy that details a class of inferior users that have to *put in effort* to be considered "equal". 
+We're not asking you to worship us as superiors, we would love nothing more for you to be civilized! This *person* writes as if the technologically inclined are a benevolent higher power with a mission to enlighten and civilize the new world savages. Here they establish a *clear* hierarchy that details a class of inferior users that have to *put in effort* to be considered "equal". 
 
   Mr. Raymond kindly offers us a compliment. "Good Question!" "In particular, we throw away questions from people who appear to be losers in order to spend our question-answering time more efficiently, on winners." 
 
