@@ -23,31 +23,29 @@ labels:
 
 <body class="d-flex flex-column min-vh-100">
     <h1>U and I Belong Together</h1>
-        <div class="container">
-            <div class="justify-content-start navbar-nav">
-                <a class="navbar-brand" href="#"><img src="/img/uAndI/uh-manoa-logo.jpg" width="200px"></a>
-            </div>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-              <div class="nav">
-                <a class="nav-item nav-link" href="#">Home</a>
-                <a class="nav-item nav-link" href="#">About Us</a>
-                <a class="nav-item nav-link" href="#">St. Patrick's Day</a>
-                <a class="nav-item nav-link" href="#">To Go Ordering</a>
-                <a class="nav-item nav-link" href="#"><i class="bi-instagram"></i></a>
-                <a class="nav-item nav-link" href="#"><i class="bi-facebook"></i></a>
-                <a class="nav-item nav-link" href="#"><i class="bi-twitter"></i></a>
-              </div>        
-            </div>
-          </div>
-    <p> As I have made clear in my previous essays, I am an Engineer first and a Computer Scientist second. I am very unfamiliar with front end development and approach it with the suspicion of a warry explorer.</p>
+      <div class="container">
+        <div class="justify-content-start navbar-nav">
+            <a class="navbar-brand" href="#"><img src="/img/uAndI/uh-manoa-logo.jpg" width="200px"></a>
         </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+          <div class="nav">
+            <a class="nav-item nav-link" href="https://umamusume.com/">Check Out Umamusume!</a>
+            <a class="nav-item nav-link" href="https://en.wikipedia.org/wiki/U">About U</a>
+            <a class="nav-item nav-link" href="https://en.wikipedia.org/wiki/I">About I</a>
+            <a class="nav-item nav-link" href="#">I Still Prefer Backend</a>
+            <a class="nav-item nav-link" href="#"><i class="bi-instagram"></i></a>
+            <a class="nav-item nav-link" href="#"><i class="bi-facebook"></i></a>
+            <a class="nav-item nav-link" href="#"><i class="bi-twitter"></i></a>
+          </div>        
+        </div>
+      </div>
+    <div class="container">
+      <p> As I have made clear in my previous essays, I am an Engineer first and a Computer Scientist second. I am very unfamiliar with front end development and approach it with the suspicion of a warry explorer.</p>
+    </div>
 
-<blockquote>
-str.split(' ').sort();
-</blockquote>
 
 <p> 
 	Is a crime that should have been outlawed by the Geneva Convention. However, that's also what makes JavaScript (and by extension, Typescript) so convenient—it allows for simple code that, to quote Todd Howard, "Just works". Grievances aside, Typescript is a good language for beginners. Unlike the double-egded sword that is C, Typescript is less likely to segment fault and brick your script. It has native class support which is very helpful in regards to Object Oriented Programming. The Type extension is very usefull for programmers who like to keep their functions organized, but to be honnest, it sort of just feels like an extra layer added to JavaScript to make it more like languages like C (where every variable and function has to have a type).
