@@ -28,7 +28,7 @@ labels:
       <div class="container">
         <h2>Click the icon to read the essay!</h2>
         <div class="justify-content-start navbar-nav">
-            <a class="navbar-brand" href="UandI.html"><img src="/img/uAndI/uh-manoa-logo.jpg" width="200px"></a>
+            <a class="navbar-brand" href="siteUandI.html"><img src="/img/uAndI/uh-manoa-logo.jpg" width="200px"></a>
         </div>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
