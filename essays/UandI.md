@@ -45,7 +45,7 @@ labels:
       </div>
     <div class="container">
       <p> As I have made clear in my previous essays, I am an Engineer first and a Computer Scientist second. I am very unfamiliar with front end development and approach it with the suspicion of a warry explorer.</p>
-      <img src="img\uAndI\filthy-frank-confused-scream-meme-5.webp" alt="WHAT'S A CONTAINER?!">
+      <img src="/img/uAndI/filthy-frank-confused-scream-meme-5.webp" alt="WHAT'S A CONTAINER?!">
       <p> I have since come around to... slightly appreciate HTML and UI development. It's an art, really. I entered this unit dreading and loathing its existance, and I was right. Learning and formatting a coherent HTML document and website was akin to entering fish in the Honolulu Marathon. I was questioning my life choices. There was so much to learn and understand, and my previous programming experience was useless before the <i>monster</i> that was HTML.
     </div>
 
