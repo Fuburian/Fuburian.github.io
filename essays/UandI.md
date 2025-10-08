@@ -12,7 +12,6 @@ labels:
   - Haters to Lovers
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>U and I Belong Together</title>
