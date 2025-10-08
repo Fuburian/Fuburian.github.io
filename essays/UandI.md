@@ -45,21 +45,11 @@ labels:
       </div>
     <div class="container">
       <p> As I have made clear in my previous essays, I am an Engineer first and a Computer Scientist second. I am very unfamiliar with front end development and approach it with the suspicion of a warry explorer.</p>
-        <center>
+        <div class="container-fluid justify-content-center">
           <img src="/img/uAndI/filthy-frank-confused-scream-meme-5.webp" alt="WHAT'S A CONTAINER?!">
-        </center>
+        </div>
       <p> I have since come around to... slightly appreciate HTML and UI development. It's an art, really. I entered this unit dreading and loathing its existance, and I was right. Learning and formatting a coherent HTML document and website was akin to entering fish in the Honolulu Marathon. I was questioning my life choices. There was so much to learn and understand, and my previous programming experience was useless before the <i>monster</i> that was HTML.
     </div>
-
-
-<p> 
-	Is a crime that should have been outlawed by the Geneva Convention. However, that's also what makes JavaScript (and by extension, Typescript) so convenient—it allows for simple code that, to quote Todd Howard, "Just works". Grievances aside, Typescript is a good language for beginners. Unlike the double-egded sword that is C, Typescript is less likely to segment fault and brick your script. It has native class support which is very helpful in regards to Object Oriented Programming. The Type extension is very usefull for programmers who like to keep their functions organized, but to be honnest, it sort of just feels like an extra layer added to JavaScript to make it more like languages like C (where every variable and function has to have a type).
-</p>
-
-<p>
-In regards to athletic software engineering, I actively despise it. That's just my personal opinion. I'm sure it works for some people, and if it does then I'm glad they found something that works for them. Personally, I do not believe good quality programming could come from forcing programmers to conform to a timelimit. Stress aside, I tend to write and simulate code in my head several times before I actually start coding. It's essential to my coding process and removing that would be akin to kicking the crutch out from beneath a limping patient. Sure, I could use a naive implementation of the WOD, but at that point, I'm not really practicing my coding skills or critical thinking. I'm just brute forcing a program without regard to dynamic programming or cost functions. I think WODs would be useful for programmers who are still developing their programming skill set and are a fun way to keep your skills sharp, but it ends there. To borrow horse racing terms, I am an "end closer". That is, I spend majority of my time thinking, researching, planning, and then complete projects in a flurry of energy and activity. WODs are inherently antithetical to my work routine, but that's just my personal opinion.
-</p>
-
-</body>
+  </body>
 </html>
 
