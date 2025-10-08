@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Typescript Athletes Should be Sent to the Hague"
+title: "U and I Belong Together"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-03
+date: 2025-10-08
 published: true
 labels:
   - Software Engineering
