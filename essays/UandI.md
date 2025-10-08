@@ -48,13 +48,15 @@ labels:
       <p> As I have made clear in my previous essays, I am an Engineer first and a Computer Scientist second. I am very unfamiliar with front end development and approach it with the suspicion of a warry explorer.</p>
         <div class="container-fluid justify-content-center">
           <img src="/img/uAndI/filthy-frank-confused-scream-meme-5.webp" alt="WHAT'S A CONTAINER?!">
-        </div><p> I have since come around to... slightly appreciate HTML and UI development. It's an art, really. I entered this unit dreading and loathing its existance, and I was right. Learning and formatting a coherent HTML document and website was akin to entering fish in the Honolulu Marathon. I was questioning my life choices. There was so much to learn and understand, and my previous programming experience was useless before the <i>monster</i> that was HTML.</p>
+        </div>
+          <p> I have since come around to... slightly appreciate HTML and UI development. It's an art, really. I entered this unit dreading and loathing its existance, and I was right. Learning and formatting a coherent HTML document and website was akin to entering fish in the Honolulu Marathon. I was questioning my life choices. There was so much to learn and understand, and my previous programming experience was useless before the <i>monster</i> that was HTML.</p>
     </div>
     <div class="container">
       <p>I had an assignment to recreate a website of my choosing using HTML and Bootstrap 5, so I had woke early that morning. I spent <i>five hours</i> straight hacking away at an HTML document that was really only half functioning. I had resorted to accomplishing the assignments via sheer brute force: "Okay... style="left: 50vw; padding-left: 50px;" And it worked!</p>
       <p>Until you resized the screen.</p>
       <p>At that point I had realized that this was <i>not</i> the way the assignment was completed and resigned myself to restarting using more Bootstrap 5 elements, and <i>boy</i> what a difference it made!</p>
     </div>
+
   </body>
 </html>
 
