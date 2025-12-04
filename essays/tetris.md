@@ -1,20 +1,21 @@
 ---
 layout: essay
 type: essay
-title: "Typescript Athletes Should be Sent to the Hague"
+title: "Design Paterns: The Tetris of the Computer World"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-03
+date: 2025-12-03
 published: true
 labels:
   - Software Engineering
   - Learning
+  - Design Paterns
 ---
 
 
 <body>
 
-<h1>Typescript Athletes Should be Sent to the Hague</h1>
-<p>I would like to preface this by expressing my aversion towards JavaScript. Many years of game modding and robotics have shown me how incomprehensible and problematic JavaSript can be. It can be slow and disorganized. Perhaps that's my natural bias towards my beloved engineering courses speaking (a land of wonder where everything is coded in C and C++), but JavaScript classes become a nightmare of serial access operators and member variables that could scramble an egg faster than a sheetmetal shack in the middle of the Mojave. To be fair, it could be worse. At least it isn't Java. </p>
+<h1>Design Paterns: The Tetris of the Computer World</h1>
+<p>If Software Development was Tetris, then Design Patterns are the blocks. At least, that's how I like to think of them. They're nifty litte tools we cann use to get a job done. We use them as construction blocks to build our program or application (or solution if you're daring). Much like the blocks in Tetris, Design Patterns are incomplete on their own and require further work to bring out their true potential. To quote [College Humor](https://youtu.be/Alw5hs0chj0), "The playing field is random and jagged". </p>
 
 
 <blockquote>
