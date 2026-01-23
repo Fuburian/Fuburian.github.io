@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Typescript Athletes Should be Sent to the Hague"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-03
+date: 2026-01-22
 published: true
 labels:
   - Software Engineering
