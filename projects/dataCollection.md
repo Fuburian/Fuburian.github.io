@@ -13,7 +13,7 @@ summary: "A set of python scripts developed to harvest data from various electri
 
 <img class="img-fluid" src="../img/cotton/bannerMeter.webp">
 
-This project was created to address insuffincies in our data collection methods. It connects to a list of pre-defined smart meters and collects various metrics with sub-minute data resolution
+This project was created to address critical issues in our data collection methods. It connects to a list of pre-defined smart meters and collects various metrics with sub-minute data resolution
 
 
 <hr>
