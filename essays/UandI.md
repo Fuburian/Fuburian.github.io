@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "U and I Belong Together"
 # All dates must be YYYY-MM-DD format!
-date: 2025-10-08
+date: 2026-02-26
 published: true
 labels:
   - Software Engineering
