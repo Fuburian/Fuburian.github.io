@@ -35,5 +35,4 @@ I'd like an "F" in chat for my effort estimations. I'm not new to making effort 
   comes with experienec. Hence the reason why I am grateful for the kerfuffles involved with this project. In the end, I learned a lot. And that's all that really matters.
 </p>
 
-</body>
 
