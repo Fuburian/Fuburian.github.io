@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Effort Estimation: Putting the F in Effort"
 # All dates must be YYYY-MM-DD format!
-date: 2025-12-14
+date: 2026-05-04
 published: true
 labels:
   - Software Engineering
