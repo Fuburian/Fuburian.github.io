@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Paterns: The Tetris of the Computer World"
 # All dates must be YYYY-MM-DD format!
-date: 2025-12-03
+date: 2026-05-08
 published: true
 labels:
   - Software Engineering
@@ -23,4 +23,3 @@ labels:
 </p>
 
 </body>
-</html>
