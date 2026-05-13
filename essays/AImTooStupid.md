@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Use of AI in Class: AI'm Too Stupid?"
 # All dates must be YYYY-MM-DD format!
-date: 2025-12-14
+date: 2026-05-12
 published: true
 labels:
   - Software Engineering
@@ -30,4 +30,3 @@ This brings me to another point: motivation. I have more motivation if I am havi
 scheduling algorithm isn't fair"? How about "This scheduling algorithm practices poor shareability". I will, of course, explain what I meant by "shareability" within the comment itself. Write an essay on colonialism? Sure thing! Here's an essay about colonialism and how this particular random Japanese Anime is a prime example of settler colonialism. At most, I would use AI as a tool to throw at a very specific problem. "How do I itterate over this struct". It should NOT replace the main proccess of the work itself.  
 </p>
 
-</body>
