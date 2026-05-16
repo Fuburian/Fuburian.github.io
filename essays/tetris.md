@@ -1,21 +1,21 @@
 ---
 layout: essay
 type: essay
-title: "Design Paterns: The Tetris of the Computer World"
+title: "Design Patterns: The Tetris of the Computer World"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-08
 published: true
 labels:
   - Software Engineering
   - Learning
-  - Design Paterns
+  - Design Patterns
 ---
 
 
 <body>
 
-<h1>Design Paterns: The Tetris of the Computer World</h1>
-<p>If Software Development was Tetris, then Design Patterns are the blocks. At least, that's how I like to think of them. They're nifty litte tools we cann use to get a job done. We use them as construction blocks to build our program or application (or solution if you're daring). Much like the blocks in Tetris, Design Patterns are incomplete on their own and require further work to bring out their true potential. When reviewing or drafting a design for a solution, we may come accross "T Block" shaped holes. This would be an indication to use a "T Block" to plug the hole. Let's say I want to create a front end to a database where users can add items and entries to the various tables. This would look like a very "Factory" shaped hole. Of course, like Tetris, there could be many Design Patterns to fit the bill. However, each and every Design Pattern has its own banes and boons. Yes, you could plug a vertical hole with an "L Block", but that would block the column and make further developments impossible. Similarly, one could use "Observer" to send news letters to subscribers, but good luck getting that to work reliably on multi-threaded computers. You don't have a semaphore! So naturally, this could go horribly wrong if you use the wrong Design Pattern for the job. To quote College Humor, "The playing field is random and jagged". </p>
+<h1>Design Patterns: The Tetris of the Computer World</h1>
+<p>If Software Development was Tetris, then Design Patterns are the blocks. At least, that's how I like to think of them. They're nifty little tools we can use to get a job done. We use them as construction blocks to build our program or application (or solution if you're daring). Much like the blocks in Tetris, Design Patterns are incomplete on their own and require further work to bring out their true potential. When reviewing or drafting a design for a solution, we may come across "T Block" shaped holes. This would be an indication to use a "T Block" to plug the hole. Let's say I want to create a front end to a database where users can add items and entries to the various tables. This would look like a very "Factory" shaped hole. Of course, like Tetris, there could be many Design Patterns to fit the bill. However, each and every Design Pattern has its own banes and boons. Yes, you could plug a vertical hole with an "L Block", but that would block the column and make further developments impossible. Similarly, one could use "Observer" to send news letters to subscribers, but good luck getting that to work reliably on multi-threaded computers. You don't have a semaphore! So naturally, this could go horribly wrong if you use the wrong Design Pattern for the job. To quote College Humor, "The playing field is random and jagged". </p>
 
 
 <p> 
